@@ -23,11 +23,11 @@ I take inspiration from the following two pieces:
 
 The first half will allow user input to map them onto a distribution and explain exactly how the city calculated their tax:
 
-![](../images/IMG_1137.jpeg)
+![](../images/IMG_1137.png)
 
 And scrolling further down they get to visualize the entire city's distribution and what areas have a more progressive/regressive schedule:
 
-![](../images/IMG_1138.jpeg)
+![](../images/IMG_1138.png)
 
 ## Data Sources
 
